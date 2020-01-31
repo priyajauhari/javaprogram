@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person id="10">
+    <name>Priya</name>
+    <age>25</age>
+    <hobbies>
+        <hobby>Listening Music</hobby>
+        <hobby>Playing Badminton</hobby>
+        <hobby>Watching Movies</hobby>
+    </hobbies>
+    <address>
+        <city>Noida</city>
+        <state>UP</state>
+        <pincode>201301</pincode>
+    </address>
+</person>
